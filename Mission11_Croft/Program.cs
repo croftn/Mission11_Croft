@@ -1,3 +1,6 @@
+//Author: Nya Croft
+//Section 004
+
 using Microsoft.EntityFrameworkCore;
 using Mission11_Croft.Models;
 
